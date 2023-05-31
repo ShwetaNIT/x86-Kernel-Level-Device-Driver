@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "queue.C": "cpp",
+        "kernel.C": "cpp",
+        "scheduler.C": "cpp",
+        "blocking_disk.C": "cpp"
+    }
+}
